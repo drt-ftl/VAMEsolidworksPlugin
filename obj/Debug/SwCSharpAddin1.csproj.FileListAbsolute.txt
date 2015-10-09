@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\obj\Debug\SwCSharpAddin1.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\bin\Debug\Yay.dll
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\bin\Debug\Yay.pdb
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\bin\Debug\SolidWorksTools.dll
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\obj\Debug\Yay.dll
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\obj\Debug\Yay.pdb
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\bin\Debug\Yay.tlb

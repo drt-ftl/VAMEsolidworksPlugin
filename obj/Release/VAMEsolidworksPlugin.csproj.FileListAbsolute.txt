@@ -1,0 +1,10 @@
+C:\Users\David\Documents\GitHub\VAMEsolidworksPlugin\bin\Release\VAMEsolidworksPlugin.dll
+C:\Users\David\Documents\GitHub\VAMEsolidworksPlugin\bin\Release\VAMEsolidworksPlugin.tlb
+C:\Users\David\Documents\GitHub\VAMEsolidworksPlugin\bin\Release\MakarovDev.ExpandCollapsePanel.dll
+C:\Users\David\Documents\GitHub\VAMEsolidworksPlugin\bin\Release\SolidWorksTools.dll
+C:\Users\David\Documents\GitHub\VAMEsolidworksPlugin\bin\Release\UnityEngine.dll
+C:\Users\David\Documents\GitHub\VAMEsolidworksPlugin\bin\Release\MakarovDev.ExpandCollapsePanel.pdb
+C:\Users\David\Documents\GitHub\VAMEsolidworksPlugin\obj\Release\VAMEsolidworksPlugin.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\VAMEsolidworksPlugin\obj\Release\SwCSharpAddin1.UserControl1.resources
+C:\Users\David\Documents\GitHub\VAMEsolidworksPlugin\obj\Release\VAMEsolidworksPlugin.csproj.GenerateResource.Cache
+C:\Users\David\Documents\GitHub\VAMEsolidworksPlugin\obj\Release\VAMEsolidworksPlugin.dll

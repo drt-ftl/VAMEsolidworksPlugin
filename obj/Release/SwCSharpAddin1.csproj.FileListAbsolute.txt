@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\bin\Release\Yay.dll
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\bin\Release\Yay.tlb
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\bin\Release\MakarovDev.ExpandCollapsePanel.dll
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\bin\Release\SolidWorksTools.dll
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\bin\Release\UnityEngine.dll
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\bin\Release\MakarovDev.ExpandCollapsePanel.pdb
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\obj\Release\SwCSharpAddin1.UserControl1.resources
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\obj\Release\SwCSharpAddin1.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\obj\Release\Yay.dll
+C:\Users\David\Documents\Unity5\Additive\swWizardAddIn\SwCSharpAddin1\obj\Release\SwCSharpAddin1.csprojResolveAssemblyReference.cache
